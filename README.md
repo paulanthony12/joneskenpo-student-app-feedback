@@ -1,5 +1,5 @@
 # 🥋 Jones Kenpo Student App — Feedback
-![Jones Kenpo Student App Logo](images/joneskenpo-logo.png)
+![Jones Kenpo Student App Logo](images/joneskenpo-logo@256.png)
 Welcome!  
 This repository is a place for **Jones Kenpo students** to share feedback, report bugs, and suggest ideas for the Student App.
 
